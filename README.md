@@ -1,4 +1,4 @@
-# Blockchain_Wallets
+- Imported Ethereum transaction functions into a Streamlit application.
 
 ## Main ETH account:
 ![Image](./Images/TX.png)
